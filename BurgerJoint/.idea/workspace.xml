@@ -6,24 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0034877-c00f-4550-9f67-b7ee7ca77a5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/burgerlist/AddToCartTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/burgerlist/GoToBurgerDetailSuccessTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/burgerlist/GoToCartListTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/burgerlist/PlayGameTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/login/LoginFailTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/utils/RecyclerViewMatcher.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zg/burgerjoint/utils/utils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/instrumentationtests/DatabaseTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/instrumentationtests/DatabaseTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/burgerlist/GoToBurgerDetailsSuccessTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/login/LoginSuccessTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zg/burgerjoint/uitests/login/LoginSuccessTest_.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/zg/burgerjoint/mvp/presenters/impls/MainPresenterImplTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/zg/burgerjoint/mvp/presenters/impls/MainPresenterImplTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="e0034877-c00f-4550-9f67-b7ee7ca77a5a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594368940648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" -Instrumentation Test with DB,UI Testing with user login usecase and burgerlist item click usecase">
+      <created>1594377320852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594377320852</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" -Instrumentation Test with DB,UI Testing with user login usecase and burgerlist item click usecase">
+      <created>1594377343564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594377343564</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,6 +442,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added some files" />
     <MESSAGE value="using local unit test for main presenter testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="using local unit test for main presenter testing" />
+    <MESSAGE value=" -Instrumentation Test with DB,UI Testing with user login usecase and burgerlist item click usecase" />
+    <option name="LAST_COMMIT_MESSAGE" value=" -Instrumentation Test with DB,UI Testing with user login usecase and burgerlist item click usecase" />
   </component>
 </project>
